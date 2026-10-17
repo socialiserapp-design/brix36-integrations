@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "brix36": {
+      "url": "https://api.brix36.com/mcp"
+    }
+  }
+}

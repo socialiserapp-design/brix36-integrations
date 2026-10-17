@@ -1,0 +1,17 @@
+{
+  "name": "brix36",
+  "owner": {
+    "name": "Brix36"
+  },
+  "metadata": {
+    "description": "Brix36 plugins for Cursor",
+    "version": "1.2.0"
+  },
+  "plugins": [
+    {
+      "name": "brix36",
+      "source": "./plugins/brix36",
+      "description": "Make a film, music video, picture or motion graphics with your Brix36 account. You see the credit price and approve once before anything is charged. No subscription."
+    }
+  ]
+}

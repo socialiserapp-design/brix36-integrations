@@ -1,0 +1,15 @@
+{
+  "name": "brix36",
+  "version": "1.2.0",
+  "description": "Make a film, music video, picture or motion graphics with your Brix36 account. You see the credit price and approve once before anything is charged. No subscription.",
+  "mcpServers": {
+    "brix36": {
+      "httpUrl": "https://api.brix36.com/mcp",
+      "oauth": {
+        "enabled": true,
+        "scopes": ["studio.read", "studio.write", "studio.spend", "offline_access"]
+      }
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
